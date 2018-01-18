@@ -1,0 +1,3 @@
+Hello I am Shruti.
+Bye.
+git diff works only after u git add and make changes in existing files.. it will showing changes after u added it last time..
